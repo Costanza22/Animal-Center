@@ -1,24 +1,18 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Animal Shelter
+Este é um projeto de um sistema simples para um abrigo de animais, que visa auxiliar na gestão e acompanhamento dos animais que estão sob cuidado do abrigo.
 
-Things you may want to cover:
+Funcionalidades
+Listagem de Animais:
 
-* Ruby version
+Visualize uma lista de todos os animais no abrigo.
+Obtenha informações sobre cada animal, como nome, espécie, idade e status de adoção.
+Cadastro de Novos Animais:
 
-* System dependencies
+Adicione novos animais ao abrigo, fornecendo detalhes como nome, espécie, idade e outras informações relevantes.
+Atualização de Status de Adoção:
 
-* Configuration
+Atualize o status de adoção de um animal para indicar se ele está disponível para adoção ou se já encontrou um lar.
+Busca por Animais:
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Realize buscas por animais com base em diferentes critérios, como espécie, idade ou status de adoção.
