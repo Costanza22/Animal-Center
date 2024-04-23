@@ -1,5 +1,5 @@
 
-Animal Shelte
+Animal Shelter
 
 Este é um projeto de um sistema simples para um abrigo de animais, que visa auxiliar na gestão e acompanhamento dos animais que estão sob cuidado do abrigo.
 
